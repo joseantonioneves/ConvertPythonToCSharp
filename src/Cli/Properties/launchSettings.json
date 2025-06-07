@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-r .",
+      "workingDirectory": "D:\\dev\\uxmal\\rev\\py\\angr\\angr"
+    }
+  }
+}
